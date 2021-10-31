@@ -1,7 +1,15 @@
 /* Mobile */
 @media only screen and (max-width: 740px) {
+    .s-full-width {
+        width: 100% !important;
+    }
+    
     .s-col-full {
-        width: 100%;
+        width: 100% !important;
+    }
+
+    .s-mt-8 {
+        margin-top: 8px !important;
     }
     
     #header {
@@ -46,4 +54,7 @@
         width: 60%;
     }
 
+    .contact-form {
+        margin-top: 16px;
+    }
 }
