@@ -341,6 +341,18 @@ html {
   display: inline-block;
 }
 
+.contact-info a:link {
+  color: #2196f3;
+}
+
+.contact-info a:visited {
+  color: #6613eb;
+}
+
+.contact-info a:hover {
+  color: #1713eb;
+}
+
 .contact-form {
   font-size: 15px;
 }
