@@ -207,6 +207,7 @@ html {
 
   /* Cách 2 */
   width: 100%;
+  text-shadow: 0 0 1px #000;
 }
 #slider .text-heading {
   font-weight: 500;
@@ -215,6 +216,7 @@ html {
 #slider .text-description {
   font-size: 15px;
   margin-top: 25px;
+  
 }
 #content {
 }
